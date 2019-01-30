@@ -1,0 +1,345 @@
+[
+	{
+		"id": 1,
+		"title": "Understanding PHP Basics",
+		"master": [
+			{
+				"title": "Working with PHP files",
+				"competence": [
+					"Dapat memahami bagaimana kode dieksekusi",
+					"Mengetahui structur bahasa"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Execute php file",
+					"Working with Web Servers",
+					"Running your php code with cli"
+				],
+				"useable_link": [
+          {
+            "url":"",
+            "title":""
+          }
+        ]
+			},
+			{
+				"title": "Variables & Data Types",
+				"competence": [
+					"Dapat mendeklarasikan variabel",
+					"Mengetahui variabel yang memiliki data yang valid",
+					"Memahami setiap jenis data"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Exploring data types",
+					"See the results of variable with different data types"
+				],
+				"useable_link": [
+          {
+            "url":"",
+            "title":""
+          }
+        ]
+			},
+			{
+				"title": "Operators",
+				"competence": [
+					"Memahami operator aritmatika basic",
+					"Mengetahui kegunaan setiap operator",
+					"Memahami setiap kombinasi operator"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Arithmetic Operators",
+					"Assignment Operators",
+					"Comparison Operators",
+					"Logical Operators",
+					"Icrementing & Decrementing Operators"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "Working with Strings",
+				"competence": [
+					"Memahami kegunaan string",
+					"Memahami function helper untuk string pada php"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Various function of strings with php"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "Working with arrays",
+				"competence": [
+					"Memahami kegunaan array",
+					"Memahami function helper untuk array pada php"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Initializing Arrays",
+					"Populating Arrays",
+					"Accessing Arrays",
+					"Searching for element in an array",
+					"Ordering arrays",
+					"Various function of arrays with php"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "PHP in Web Applications",
+				"competence": [
+					"Ekstrak url dengan variabel $_GET",
+					"Bekerja dengan HTML forms menggunakan $_POST"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Introduction HTTP superglobals variables"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "Control Structures",
+				"competence": [
+					"Memahami control structures",
+					"Memahami executing flow setiap control structures"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Conditionals Control Structure",
+					"Switch...Case Control Structure",
+					"Loop Control Structure"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				],
+				"images": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "Functions with php",
+				"competence": [
+					"Dapat membuat functions lebih reusable",
+					"Memahami kegunaan functions",
+					"Membuat function helper sendiri"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Function declaration",
+					"Function with arguments",
+					"Funtion return statement",
+					"Types hinting and return types"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				],
+				"images": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "The Filesystem",
+				"competence": [
+					"Dapat mengambil data dari sebuah file",
+					"Menyimpan data kedalam file"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Function helper working with files",
+					"Reading files",
+					"Writing files"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				],
+				"images": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "Object Oriented Programming with PHP",
+				"competence": [
+					"Mehamami konsep OOP",
+					"Dapat membuat class untuk mengelompokkan sifat dari class itu sendiri"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Class Properties",
+					"Class Methods",
+					"Class Constructors",
+					"Magic Methods with PHP",
+					"Properties and methods visibility",
+					"Encapsulation",
+					"Static Properties and methods",
+					"Namespaces"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				],
+				"images": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			},
+			{
+				"title": "Adapting to MVC (Models Views Controllers)",
+				"competence": [
+					"Mampu memanajemen package yang dibutuhkan menggunakan composer",
+					"Mengelompokkan kode kedalam model, view controller"
+				],
+				"course": [
+					{
+						"title": "",
+						"content": ""
+					}
+				],
+				"keywords": [],
+				"notes": [],
+				"summarize": "",
+				"detail": [
+					"Using composer",
+					"Autoloader with PSR-4",
+					"Working with request",
+					"Mapping routes to controllers"
+				],
+				"useable_link": [
+					{
+						"url": "",
+						"title": ""
+					}
+				],
+				"images": [
+					{
+						"url": "",
+						"title": ""
+					}
+				]
+			}
+		]
+	}	
+]
